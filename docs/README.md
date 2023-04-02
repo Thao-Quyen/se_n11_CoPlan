@@ -1,0 +1,1 @@
+Thư mục này chứa các tệp tài liệu liên quan đến dự án, bao gồm các tài liệu API, bản đồ, hình ảnh hoặc các tài liệu khác.
