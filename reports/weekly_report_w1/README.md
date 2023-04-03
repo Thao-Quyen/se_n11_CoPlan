@@ -6,3 +6,5 @@ Mỗi file sẽ chứa thông tin về các công việc đã hoàn thành, đan
 3. Trạng thái hoàn thành  
 4. Những khó khăn, vấn đề gặp phải trong quá trình làm việc  
 5. Các kế hoạch trong tương lai  
+<br>
+Ngoài ra còn chứa file báo cáo tiến độ chung của dự án.
