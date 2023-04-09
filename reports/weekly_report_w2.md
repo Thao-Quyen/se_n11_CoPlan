@@ -1,4 +1,4 @@
-# Báo cáo nhóm
+﻿# Báo cáo nhóm
 ## Tuần trước làm
 - Giao diện login cho app 
 - Chuyển hướng giữa các trang chính
@@ -30,5 +30,8 @@
 - Tiếp tục tìm hiểu và hoàn thiện giao diện
 ## Lưu Hiểu Khánh
 ### Tuần trước làm gì
+- Tìm hiểu, lên ý tưởng và thiết kế các mẫu giao diện người dùng
 ### Các vấn đề gặp phải
+- Chưa tìm hiểu kỹ nhu câu
 ### Dự định tuần này làm gì
+- Tìm hiểu kỹ những vấn đề cần làm
