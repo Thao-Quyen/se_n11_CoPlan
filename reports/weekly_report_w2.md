@@ -23,8 +23,11 @@
 - Nghiên cứu, thiết kế tính năng chính
 ## Ngô Thị Linh 
 ### Tuần trước làm gì
+- Tìm hiểu, lên ý tưởng và thiết kế các mẫu giao diện người dùng
 ### Các vấn đề gặp phải
+- Chưa định hình rõ giao diện muốn thiết kế
 ### Dự định tuần này làm gì
+- Tiếp tục tìm hiểu và hoàn thiện giao diện
 ## Lưu Hiểu Khánh
 ### Tuần trước làm gì
 ### Các vấn đề gặp phải
