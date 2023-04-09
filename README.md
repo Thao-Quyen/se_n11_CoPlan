@@ -1,7 +1,10 @@
 # CoPlan
-Đây là dự án phát triển ứng dụng di động cho phép người dùng sử dụng để tổ chức và quản lý các chuyến đi du lịch, kỳ nghỉ hay các hoạt động giải trí.
+Đây là dự án phát triển ứng dụng di động cho phép người dùng sử dụng để tổ 
+Ứng dụng CoPlan là một giải pháp đa năng cho việc tổ chức và quản lý các hoạt động du lịch, giải trí đến những chuyến công tác, và các hoạt động tương tự tùy theo nhu người sử dụng. Không chỉ giúp người dùng lên kế hoạch và quản lý lịch trình các hoạt động, CoPlan còn cho phép người dùng chia sẻ chi phí để tiết kiệm chi phí và tránh bất đồng về tài chính sau chuyến đi.
 <br><br>
-Khách hàng sử dụng CoPlan có thể là một nhóm bạn đi du lịch hoặc một cặp đôi có kế hoạch tổ chức một chuyến đi chơi cuối tuần. Với ứng dụng này, họ có thể dễ dàng lên kế hoạch và quản lý lịch trình các hoạt động bao gồm các địa điểm tham quan, ăn uống, giải trí và thời gian diễn ra các sự kiện. Ngoài ra, họ còn có thể chia sẻ chi phí cho các hoạt động chung như phòng khách sạn, mua sắm hoặc các hoạt động giải trí khác, giúp tiết kiệm chi phí và tránh bất đồng về tài chính sau chuyến đi. Đặc biệt, ứng dụng còn có tính năng dự báo thời tiết, giúp người dùng biết trước được thời tiết trong ngày hoặc trong các ngày tiếp theo tại địa điểm mà họ sắp đến. Tính năng này giúp người dùng điều chỉnh các hoạt động nếu cần thiết để tránh bị ảnh hưởng bởi thời tiết xấu.
+CoPlan còn cung cấp tính năng dự báo thời tiết, giúp người dùng điều chỉnh các hoạt động nếu cần thiết để tránh bị ảnh hưởng bởi thời tiết xấu. Ngoài ra, ứng dụng còn cung cấp các tính năng hữu ích khác như tìm kiếm địa điểm tham quan, ăn uống, giải trí và mua sắm, gợi ý các hoạt động phù hợp với sở thích của người dùng.
+<br><br>
+Bất kỳ ai đều có thể sử dụng CoPlan, từ nhóm bạn đi du lịch cho đến các tổ chức tổ chức sự kiện, thậm chí cả những cá nhân độc lập. Với ứng dụng này, việc lên kế hoạch và quản lý các hoạt động trở nên dễ dàng hơn bao giờ hết.
 
 ## Các tính năng chính
 &#x2B50; Tạo và quản lý lịch trình các hoạt động  
