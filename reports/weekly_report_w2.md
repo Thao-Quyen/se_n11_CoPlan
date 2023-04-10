@@ -17,7 +17,7 @@
 - Nghiên cứu, thiết kế giao diện phần mềm
 - Hoàn thành giao diện Welcome, LOGIN, SIGNUP Screen. Và đang trong quá trình cải thiện
 ### Các vấn đề gặp phải
-- Việc thiết kế gặp nhiều khó khăn do
+- Việc thiết kế gặp nhiều khó khăn
 ### Dự định tuần này làm gì
 - Tiếp tục thiết kế giao diện
 - Nghiên cứu, thiết kế tính năng chính
