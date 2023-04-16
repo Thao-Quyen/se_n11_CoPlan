@@ -19,5 +19,8 @@
 - Hoàn thiện ý tưởng giao diện, tìm hiểu vê giao diện chức năng
 ## Lưu Hiểu Khánh
 ### Tuần trước làm gì
+- lên ý tưởng giao diện
 ### Vấn đề gặp phải
+- chưa nghiên cứu kỹ mục tiêu đề bài cần nghiên cứu
 ### Công việc tuần này
+- tiếp tục nghiên cứu giao diện
