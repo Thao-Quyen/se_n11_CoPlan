@@ -8,8 +8,12 @@
 ### Công việc tuần này
 ## Đào Nguyễn Thảo Quyên
 ### Tuần trước làm gì
+- Thiết kế các giao diện
+- Nghiên cứu, thiết kế tính năng chính
 ### Vấn đề gặp phải
+- Kỹ năng vẫn còn hạn chế, cần học hỏi thêm
 ### Công việc tuần này
+- Tiếp tục giai đoạn phát triển phần mềm
 ## Ngô Thị Linh
 ### Tuần trước làm gì
 - Tìm hiểu, lê ý tưởng thiết kế giao diện 
