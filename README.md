@@ -1,5 +1,5 @@
 # CoPlan
-Ứng dụng CoPlan là một giải pháp đa năng cho việc tổ chức và quản lý các hoạt động du lịch, giải trí đến những chuyến công tác, và các hoạt động tương tự tùy theo nhu người sử dụng. Không chỉ giúp người dùng lên kế hoạch và quản lý lịch trình các hoạt động, CoPlan còn cho phép người dùng chia sẻ chi phí để tiết kiệm chi phí và tránh bất đồng về tài chính sau chuyến đi.
+Ứng dụng CoPlan là một giải pháp đa năng cho việc tổ chức và quản lý các hoạt động du lịch, giải trí đến những chuyến công tác, và các hoạt động tương tự tùy theo nhu cầu người sử dụng. Không chỉ giúp người dùng lên kế hoạch và quản lý lịch trình các hoạt động, CoPlan còn cho phép người dùng chia sẻ chi phí để tiết kiệm chi phí và tránh bất đồng về tài chính sau chuyến đi.
 <br><br>
 CoPlan còn cung cấp tính năng dự báo thời tiết, giúp người dùng điều chỉnh các hoạt động nếu cần thiết để tránh bị ảnh hưởng bởi thời tiết xấu. Ngoài ra, ứng dụng còn cung cấp các tính năng hữu ích khác như tìm kiếm địa điểm tham quan, ăn uống, giải trí và mua sắm, gợi ý các hoạt động phù hợp với sở thích của người dùng.
 <br><br>
