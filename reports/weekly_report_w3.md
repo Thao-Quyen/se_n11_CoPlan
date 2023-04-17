@@ -4,8 +4,11 @@
 #Báo Cáo Cá Nhân Từng Thành Viên
 ## Trần Minh Hiếu
 ### Tuần trước làm gì
+THiết kế gần xong giao diện 
 ### Vấn đề gặp phải
+Lưu trữ và xử lý dữ liệu
 ### Công việc tuần này
+Tiếp tục hoàn thành nốt giao diện 
 ## Đào Nguyễn Thảo Quyên
 ### Tuần trước làm gì
 - Thiết kế các giao diện
