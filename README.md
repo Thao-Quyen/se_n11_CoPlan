@@ -14,7 +14,8 @@ Bất kỳ ai đều có thể sử dụng CoPlan, từ nhóm bạn đi du lịc
 &#x2B50; Tìm kiếm địa điểm và gợi ý hoạt động  
 &#x2B50; Dự báo thời tiết  
 ## Công nghệ sử dụng
-* Ngôn ngữ lập trình: 
+* Ngôn ngữ lập trình: Dart, Flutter
+* Database: Firebase, Hive
 * Hệ điều hành: Android
 ### Dự án được phát triển bởi:
 Đào Nguyễn Thảo Quyên  
